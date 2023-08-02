@@ -1,10 +1,10 @@
 import React from 'react';
-import WiFiCode from './WiFiCode';
+import TextCode from './TextCode';
 
 function App() {
   return (
     <div>
-      <WiFiCode />
+      <TextCode />
     </div>
   );
 }
