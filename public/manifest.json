@@ -1,6 +1,6 @@
 {
-  "short_name": "WiFi setup",
-  "name": "QR code generator for WiFi setup",
+  "short_name": "Simple text QR code generator",
+  "name": "QR code generator for simple text",
   "icons": [
     {
       "src": "favicon.ico",
